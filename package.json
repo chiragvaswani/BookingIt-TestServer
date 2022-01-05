@@ -1,0 +1,23 @@
+{
+  "name": "bookingit-testserver",
+  "version": "1.0.0",
+  "description": "This server is a platform for testing the package \"booking-it\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiragvaswani/BookingIt-TestServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragvaswani/BookingIt-TestServer/issues"
+  },
+  "homepage": "https://github.com/chiragvaswani/BookingIt-TestServer#readme",
+  "dependencies": {
+    "booking-it": "^1.1.1",
+    "express": "^4.17.2"
+  }
+}
